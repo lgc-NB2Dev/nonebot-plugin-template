@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# nonebot-plugin-example
+# NoneBot-Plugin-Example
 
 _✨ NoneBot 插件简单描述 ✨_
 
@@ -33,7 +33,7 @@ _✨ NoneBot 插件简单描述 ✨_
 模板库使用方法:
 
 1. 点击仓库中的 "Use this template" 按钮, 输入仓库名与描述, 点击 " Create repository from template" 创建仓库
-2. 全局替换 `owner` 为仓库所有者 ID; 全局替换 `nonebot-plugin-example` 为插件名; 全局替换 `nonebot_plugin_example` 为包名; 修改 python 徽标中的版本为你插件的运行所需版本; 替换 WakaTime 的徽标
+2. 全局替换 `owner` 为仓库所有者 ID; 全局替换 `nonebot-plugin-example` 为插件名; 全局替换 `nonebot_plugin_example` 为包名; 修改标题 `NoneBot-Plugin-Example`; 修改 python 徽标中的版本为你插件的运行所需版本; 替换 WakaTime 的徽标
 3. 修改 README 中的插件名和插件描述, 并在下方填充相应的内容
 
 ## 📖 介绍
