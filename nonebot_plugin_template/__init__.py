@@ -1,8 +1,7 @@
 from nonebot.plugin import PluginMetadata
 
-from nonebot_plugin_template.config import ConfigModel
-
 from .__main__ import *  # noqa: F401, F403
+from config import ConfigModel
 
 __version__ = "0.1.0"
 __plugin_meta__ = PluginMetadata(
