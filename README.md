@@ -1,22 +1,24 @@
-<!-- markdownlint-disable MD033 MD036 MD041 -->
+<!-- markdownlint-disable MD031 MD033 MD036 MD041 -->
 
 <div align="center">
-  <a href="https://v2.nonebot.dev/store"><img src="https://raw.githubusercontent.com/A-kirami/nonebot-plugin-template/resources/nbp_logo.png" width="180" height="180" alt="NoneBotPluginLogo"></a>
-  <br>
-  <p><img src="https://raw.githubusercontent.com/A-kirami/nonebot-plugin-template/resources/NoneBotPlugin.svg" width="240" alt="NoneBotPluginText"></p>
-</div>
 
-<div align="center">
+<a href="https://v2.nonebot.dev/store">
+  <img src="https://raw.githubusercontent.com/A-kirami/nonebot-plugin-template/resources/nbp_logo.png" width="180" height="180" alt="NoneBotPluginLogo">
+</a>
+
+<p>
+  <img src="https://raw.githubusercontent.com/A-kirami/nonebot-plugin-template/resources/NoneBotPlugin.svg" width="240" alt="NoneBotPluginText">
+</p>
 
 # nonebot-plugin-template
 
 _✨ NoneBot 插件简单描述 ✨_
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/owner/nonebot-plugin-template.svg" alt="license">
+  <img src="https://img.shields.io/github/license/owner/nonebot-plugin-template.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/nonebot-plugin-template">
-    <img src="https://img.shields.io/pypi/v/nonebot-plugin-template.svg" alt="pypi">
+  <img src="https://img.shields.io/pypi/v/nonebot-plugin-template.svg" alt="pypi">
 </a>
 <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
 <a href="https://pypi.python.org/pypi/nonebot-plugin-template">
@@ -32,13 +34,17 @@ _✨ NoneBot 插件简单描述 ✨_
 
 模板库使用方法:
 
-1. 点击仓库中的 "Use this template" 按钮, 输入仓库名与描述, 点击 "Create repository from template" 创建仓库
+1. 点击仓库中的 `Use this template` 按钮, 输入仓库名与描述, 点击 `Create repository from template` 创建仓库
 2. 全局替换 `owner` 为仓库所有者 ID;  
    全局替换 `nonebot-plugin-template` 为插件名;  
    全局替换 `nonebot_plugin_template` 为包名;  
    修改 python 徽标中的版本为你插件的运行所需版本;  
    替换 WakaTime 的徽标
-3. 修改 README 中的插件名和插件描述, 并在下方填充相应的内容
+3. 修改 `README.md` 中的插件名和插件描述, 并在下方填充相应的内容
+4. 使用 `pdm` 安装工作区依赖
+   ```shell
+   pdm install -d
+   ```
 
 ## 📖 介绍
 
