@@ -8,19 +8,19 @@
 
 <div align="center">
 
-# NoneBot-Plugin-Example
+# nonebot-plugin-template
 
 _✨ NoneBot 插件简单描述 ✨_
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/owner/nonebot-plugin-example.svg" alt="license">
+    <img src="https://img.shields.io/github/license/owner/nonebot-plugin-template.svg" alt="license">
 </a>
-<a href="https://pypi.python.org/pypi/nonebot-plugin-example">
-    <img src="https://img.shields.io/pypi/v/nonebot-plugin-example.svg" alt="pypi">
+<a href="https://pypi.python.org/pypi/nonebot-plugin-template">
+    <img src="https://img.shields.io/pypi/v/nonebot-plugin-template.svg" alt="pypi">
 </a>
 <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
-<a href="https://pypi.python.org/pypi/nonebot-plugin-example">
-  <img src="https://img.shields.io/pypi/dm/nonebot-plugin-example" alt="pypi download">
+<a href="https://pypi.python.org/pypi/nonebot-plugin-template">
+  <img src="https://img.shields.io/pypi/dm/nonebot-plugin-template" alt="pypi download">
 </a>
 <a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb">
   <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb.svg" alt="wakatime">
@@ -32,8 +32,12 @@ _✨ NoneBot 插件简单描述 ✨_
 
 模板库使用方法:
 
-1. 点击仓库中的 "Use this template" 按钮, 输入仓库名与描述, 点击 " Create repository from template" 创建仓库
-2. 全局替换 `owner` 为仓库所有者 ID; 全局替换 `nonebot-plugin-example` 为插件名; 全局替换 `nonebot_plugin_example` 为包名; 修改标题 `NoneBot-Plugin-Example`; 修改 python 徽标中的版本为你插件的运行所需版本; 替换 WakaTime 的徽标
+1. 点击仓库中的 "Use this template" 按钮, 输入仓库名与描述, 点击 "Create repository from template" 创建仓库
+2. 全局替换 `owner` 为仓库所有者 ID;  
+   全局替换 `nonebot-plugin-template` 为插件名;  
+   全局替换 `nonebot_plugin_template` 为包名;  
+   修改 python 徽标中的版本为你插件的运行所需版本;  
+   替换 WakaTime 的徽标
 3. 修改 README 中的插件名和插件描述, 并在下方填充相应的内容
 
 ## 📖 介绍
@@ -49,7 +53,7 @@ _✨ NoneBot 插件简单描述 ✨_
 在 nonebot2 项目的根目录下打开命令行, 输入以下指令即可安装
 
 ```bash
-nb plugin install nonebot-plugin-example
+nb plugin install nonebot-plugin-template
 ```
 
 </details>
@@ -62,7 +66,7 @@ nb plugin install nonebot-plugin-example
 <summary>pip</summary>
 
 ```bash
-pip install nonebot-plugin-example
+pip install nonebot-plugin-template
 ```
 
 </details>
@@ -70,7 +74,7 @@ pip install nonebot-plugin-example
 <summary>pdm</summary>
 
 ```bash
-pdm add nonebot-plugin-example
+pdm add nonebot-plugin-template
 ```
 
 </details>
@@ -78,7 +82,7 @@ pdm add nonebot-plugin-example
 <summary>poetry</summary>
 
 ```bash
-poetry add nonebot-plugin-example
+poetry add nonebot-plugin-template
 ```
 
 </details>
@@ -86,7 +90,7 @@ poetry add nonebot-plugin-example
 <summary>conda</summary>
 
 ```bash
-conda install nonebot-plugin-example
+conda install nonebot-plugin-template
 ```
 
 </details>
@@ -97,7 +101,7 @@ conda install nonebot-plugin-example
 [tool.nonebot]
 plugins = [
     # ...
-    "nonebot_plugin_example"
+    "nonebot_plugin_template"
 ]
 ```
 
