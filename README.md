@@ -14,18 +14,24 @@
 
 _✨ NoneBot 插件简单描述 ✨_
 
+<img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
+<a href="https://pdm.fming.dev">
+  <img src="https://img.shields.io/badge/pdm-managed-blueviolet" alt="pdm-managed">
+</a>
+<a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb">
+  <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb.svg" alt="wakatime">
+</a>
+
+<br />
+
 <a href="./LICENSE">
   <img src="https://img.shields.io/github/license/owner/nonebot-plugin-example.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/nonebot-plugin-example">
   <img src="https://img.shields.io/pypi/v/nonebot-plugin-example.svg" alt="pypi">
 </a>
-<img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
 <a href="https://pypi.python.org/pypi/nonebot-plugin-example">
   <img src="https://img.shields.io/pypi/dm/nonebot-plugin-example" alt="pypi download">
-</a>
-<a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb">
-  <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb.svg" alt="wakatime">
 </a>
 
 </div>
