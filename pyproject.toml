@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Template plugin project"
 authors = [{ name = "student_2333", email = "lgc2333@126.com" }]
 dependencies = [
-    "nonebot2>=2.0.0-rc.1",
+    "nonebot2>=2.0.0",
     "nonebot-adapter-onebot>=2.2.0",
     "pydantic>=1.10.4",
 ]
