@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://raw.githubusercontent.com/A-kirami/nonebot-plugin-template/resources/NoneBotPlugin.svg" width="240" alt="NoneBotPluginText">
+  <img src="https://raw.githubusercontent.com/lgc-NB2Dev/readme/main/template/plugin.svg" alt="NoneBotPluginText">
 </p>
 
 # nonebot-plugin-example
@@ -18,9 +18,9 @@ _✨ NoneBot 插件简单描述 ✨_
 <a href="https://pdm.fming.dev">
   <img src="https://img.shields.io/badge/pdm-managed-blueviolet" alt="pdm-managed">
 </a>
-<a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb">
+<!-- <a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb">
   <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb.svg" alt="wakatime">
-</a>
+</a> -->
 
 <br />
 
@@ -47,11 +47,6 @@ _✨ NoneBot 插件简单描述 ✨_
    修改 python 徽标中的版本为你插件的运行所需版本;  
    替换 WakaTime 的徽标
 3. 修改 `README.md` 中的插件名和插件描述, 并在下方填充相应的内容
-4. 使用 `pdm` 安装工作区依赖
-   ```shell
-   pdm install
-   pdm install --group dev
-   ```
 
 ## 📖 介绍
 
