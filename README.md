@@ -21,6 +21,10 @@ _✨ NoneBot 插件简单描述 ✨_
 <a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb">
   <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/f4778875-45a4-4688-8e1b-b8c844440abb.svg" alt="wakatime">
 </a>
+</a>
+
+<br />
+
 <!-- <a href="https://pydantic.dev">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pydantic/pydantic/main/docs/badge/v1.json" alt="Pydantic Version 1" >
 </a> -->
@@ -29,10 +33,6 @@ _✨ NoneBot 插件简单描述 ✨_
 </a> -->
 <a href="https://pydantic.dev">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lgc-NB2Dev/readme/main/template/pyd-v1-or-v2.json" alt="Pydantic Version 1 Or 2" >
-</a>
-
-<br />
-
 <a href="./LICENSE">
   <img src="https://img.shields.io/github/license/owner/nonebot-plugin-example.svg" alt="license">
 </a>
