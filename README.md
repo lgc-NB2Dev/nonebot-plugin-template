@@ -43,6 +43,15 @@ _✨ NoneBot 插件简单描述 ✨_
   <img src="https://img.shields.io/pypi/dm/nonebot-plugin-example" alt="pypi download">
 </a>
 
+<br />
+
+<a href="https://registry.nonebot.dev/plugin/nonebot-plugin-example:nonebot_plugin_example">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fnbbdg.lgc2333.top%2Fplugin%2Fnonebot-plugin-example" alt="NoneBot Registry">
+</a>
+<a href="https://registry.nonebot.dev/plugin/nonebot-plugin-example:nonebot_plugin_example">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fnbbdg.lgc2333.top%2Fplugin-adapters%2Fnonebot-plugin-example" alt="Supported Adapters">
+</a>
+
 </div>
 
 这是一个 nonebot2 插件项目的模板库, 你可以直接使用本模板创建你的 nonebot2 插件项目的仓库
