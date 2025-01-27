@@ -34,7 +34,7 @@ _✨ NoneBot 插件简单描述 ✨_
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lgc-NB2Dev/readme/main/template/pyd-v1-or-v2.json" alt="Pydantic Version 1 Or 2" >
 </a>
 <a href="./LICENSE">
-  <img src="https://img.shields.io/github/license/owner/nonebot-plugin-example.svg" alt="license">
+  <img src="https://img.shields.io/github/license/lgc-NB2Dev/nonebot-plugin-example.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/nonebot-plugin-example">
   <img src="https://img.shields.io/pypi/v/nonebot-plugin-example.svg" alt="pypi">
@@ -59,8 +59,7 @@ _✨ NoneBot 插件简单描述 ✨_
 模板库使用方法:
 
 1. 点击仓库中的 `Use this template` 按钮, 输入仓库名与描述, 点击 `Create repository from template` 创建仓库
-2. 全局替换 `owner` 为仓库所有者 ID;  
-   全局替换 `nonebot-plugin-example` 为插件名;  
+2. 全局替换 `nonebot-plugin-example` 为插件名;  
    全局替换 `nonebot_plugin_example` 为包名;  
    修改 python 徽标中的版本为你插件的运行所需版本;  
    替换 WakaTime 的徽标

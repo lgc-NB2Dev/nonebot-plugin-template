@@ -2,14 +2,14 @@
 name = "nonebot-plugin-example"
 dynamic = ["version"]
 description = "Template plugin project"
-authors = [{ name = "student_2333", email = "lgc2333@126.com" }]
-dependencies = ["nonebot2>=2.3.1", "nonebot-plugin-alconna>=0.48.0"]
+authors = [{ name = "LgCookie", email = "lgc2333@126.com" }]
+dependencies = ["nonebot2>=2.4.1", "nonebot-plugin-alconna>=0.54.2"]
 requires-python = ">=3.9,<4.0"
 readme = "README.md"
 license = { text = "MIT" }
 
 [project.urls]
-homepage = "https://github.com/owner/nonebot-plugin-example"
+homepage = "https://github.com/lgc-NB2Dev/nonebot-plugin-example"
 
 [dependency-groups]
 dev = []
