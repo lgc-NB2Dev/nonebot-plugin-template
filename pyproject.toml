@@ -15,12 +15,8 @@ homepage = "https://github.com/lgc-NB2Dev/nonebot-plugin-example"
 dev = []
 
 [build-system]
-requires = ["pdm-backend"]
-build-backend = "pdm.backend"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
-[tool.pdm.build]
-includes = []
-
-[tool.pdm.version]
-source = "file"
+[tool.hatch.version]
 path = "nonebot_plugin_example/__init__.py"
