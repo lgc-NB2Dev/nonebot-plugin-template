@@ -16,5 +16,5 @@ __plugin_meta__ = PluginMetadata(
     homepage="https://github.com/lgc-NB2Dev/nonebot-plugin-example",
     config=ConfigModel,
     supported_adapters=inherit_supported_adapters("nonebot_plugin_alconna"),
-    extra={"License": "MIT", "Author": "LgCookie"},
+    extra={"License": "MIT", "Author": "LgCuwukii"},
 )
