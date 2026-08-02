@@ -46,10 +46,10 @@ _✨ NoneBot 插件简单描述 ✨_
 <br />
 
 <a href="https://registry.nonebot.dev/plugin/nonebot-plugin-example:nonebot_plugin_example">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fnbbdg.lgc2333.top%2Fplugin%2Fnonebot-plugin-example" alt="NoneBot Registry">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fnbbdg.lgck.cc%2Fplugin%2Fnonebot-plugin-example" alt="NoneBot Registry">
 </a>
 <a href="https://registry.nonebot.dev/plugin/nonebot-plugin-example:nonebot_plugin_example">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fnbbdg.lgc2333.top%2Fplugin-adapters%2Fnonebot-plugin-example" alt="Supported Adapters">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fnbbdg.lgck.cc%2Fplugin-adapters%2Fnonebot-plugin-example" alt="Supported Adapters">
 </a>
 
 </div>
